@@ -1,0 +1,72 @@
+18-06-19T16:34:31.752 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:34:31.887 [main] DEBUG org.cts.oneframework.seleniumadapter.utils.BaseTest - Reading data from excel.
+18-06-19T16:34:33.045 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. KlovReport:null
+18-06-19T16:34:33.091 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. url:https://www.google.com/
+18-06-19T16:34:33.099 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. SeleniumGrid:null
+18-06-19T16:34:33.104 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:34:33.106 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:34:33.127 [main] WARN  org.cts.oneframework.listeners.TestListener - verifyTicketBook failed.
+18-06-19T16:34:33.168 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:34:33.169 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:34:33.170 [main] WARN  org.cts.oneframework.listeners.TestListener - fileUpload failed.
+18-06-19T16:34:33.776 [main] INFO  org.cts.oneframewok.seleniumadapter.drivers.ChromeDriverManager - Stopping the chrome driver service.
+18-06-19T16:35:06.050 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:35:06.102 [main] DEBUG org.cts.oneframework.seleniumadapter.utils.BaseTest - Reading data from excel.
+18-06-19T16:35:06.776 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. KlovReport:null
+18-06-19T16:35:06.798 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. url:https://www.google.com/
+18-06-19T16:35:06.807 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. SeleniumGrid:null
+18-06-19T16:35:06.809 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:35:06.810 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:35:06.830 [main] WARN  org.cts.oneframework.listeners.TestListener - verifyTicketBook failed.
+18-06-19T16:35:06.864 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:35:06.866 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:35:06.867 [main] WARN  org.cts.oneframework.listeners.TestListener - fileUpload failed.
+18-06-19T16:35:07.477 [main] INFO  org.cts.oneframewok.seleniumadapter.drivers.ChromeDriverManager - Stopping the chrome driver service.
+18-06-19T16:39:37.847 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:39:37.901 [main] DEBUG org.cts.oneframework.seleniumadapter.utils.BaseTest - Reading data from excel.
+18-06-19T16:39:38.732 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. KlovReport:null
+18-06-19T16:39:38.745 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. url:https://www.google.com/
+18-06-19T16:39:38.751 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. SeleniumGrid:null
+18-06-19T16:39:38.754 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:39:38.755 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:39:38.769 [main] WARN  org.cts.oneframework.listeners.TestListener - verifyTicketBook failed.
+18-06-19T16:39:38.793 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:39:38.794 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:39:38.795 [main] WARN  org.cts.oneframework.listeners.TestListener - fileUpload failed.
+18-06-19T16:39:39.197 [main] INFO  org.cts.oneframewok.seleniumadapter.drivers.ChromeDriverManager - Stopping the chrome driver service.
+18-06-19T16:54:50.670 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:54:50.722 [main] DEBUG org.cts.oneframework.seleniumadapter.utils.BaseTest - Reading data from excel.
+18-06-19T16:54:51.404 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. KlovReport:null
+18-06-19T16:54:51.419 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. url:https://www.google.com/
+18-06-19T16:54:51.425 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. SeleniumGrid:null
+18-06-19T16:54:51.427 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:54:51.428 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:54:51.441 [main] WARN  org.cts.oneframework.listeners.TestListener - verifyTicketBook failed.
+18-06-19T16:54:51.469 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T16:54:51.471 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T16:54:51.471 [main] WARN  org.cts.oneframework.listeners.TestListener - fileUpload failed.
+18-06-19T16:54:51.887 [main] INFO  org.cts.oneframewok.seleniumadapter.drivers.ChromeDriverManager - Stopping the chrome driver service.
+18-06-19T17:42:56.952 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T17:42:57.006 [main] DEBUG org.cts.oneframework.seleniumadapter.utils.BaseTest - Reading data from excel.
+18-06-19T17:42:57.662 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. KlovReport:null
+18-06-19T17:42:57.678 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. url:https://www.google.com/
+18-06-19T17:42:57.684 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. SeleniumGrid:null
+18-06-19T17:42:57.686 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T17:42:57.687 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T17:42:57.704 [main] WARN  org.cts.oneframework.listeners.TestListener - verifyTicketBook failed.
+18-06-19T17:42:57.735 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T17:42:57.736 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T17:42:57.737 [main] WARN  org.cts.oneframework.listeners.TestListener - fileUpload failed.
+18-06-19T17:42:58.185 [main] INFO  org.cts.oneframewok.seleniumadapter.drivers.ChromeDriverManager - Stopping the chrome driver service.
+18-06-19T17:43:31.713 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T17:43:31.804 [main] DEBUG org.cts.oneframework.seleniumadapter.utils.BaseTest - Reading data from excel.
+18-06-19T17:43:32.712 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. KlovReport:null
+18-06-19T17:43:43.349 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. url:https://www.google.com/
+18-06-19T17:43:56.009 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. SeleniumGrid:null
+18-06-19T17:44:11.657 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T17:44:13.681 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T17:44:39.834 [main] WARN  org.cts.oneframework.listeners.TestListener - verifyTicketBook failed.
+18-06-19T17:44:42.956 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. browser:chrome
+18-06-19T17:44:44.496 [main] DEBUG org.cts.oneframework.configprovider.ConfigProvider - Reading configuration from properties file. chrome.version:70
+18-06-19T17:44:57.173 [main] WARN  org.cts.oneframework.listeners.TestListener - fileUpload failed.
+18-06-19T17:44:57.599 [main] INFO  org.cts.oneframewok.seleniumadapter.drivers.ChromeDriverManager - Stopping the chrome driver service.
